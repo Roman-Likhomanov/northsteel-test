@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/northsteel-test/static/css/main.481f9657.css",
+    "main.js": "/northsteel-test/static/js/main.74c2d284.js",
+    "static/js/787.28cb0dcd.chunk.js": "/northsteel-test/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/northsteel-test/index.html",
+    "main.481f9657.css.map": "/northsteel-test/static/css/main.481f9657.css.map",
+    "main.74c2d284.js.map": "/northsteel-test/static/js/main.74c2d284.js.map",
+    "787.28cb0dcd.chunk.js.map": "/northsteel-test/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.481f9657.css",
+    "static/js/main.74c2d284.js"
+  ]
+}
